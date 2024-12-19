@@ -44,7 +44,8 @@ var sites = [{
 },{
     "name1": "Daniel",
     "name2": "Catherine",
-    "folder": "Daniel, Catherine"
+    "folder": "Daniel, Catherine",
+    "index": "HOMEPAGE.html"
 },{
     "name1": "Mackenzie",
     "folder": "mack"
