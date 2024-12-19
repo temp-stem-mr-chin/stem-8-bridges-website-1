@@ -16,7 +16,7 @@ var sites = [{
 },{
     "name1": "Theo",
     "name2": "Tavish",
-    "folder": "theo and tavish"
+    "folder": "theo-tavish"
 },{
     "name1": "Rosalie",
     "name2": "Sophia",
@@ -40,7 +40,7 @@ var sites = [{
     "name1": "Jack",
     "name2": "Rupert",
     "folder": "jr",
-    "index": "team.html"
+    "index": "home.html"
 },{
     "name1": "Daniel",
     "name2": "Catherine",
