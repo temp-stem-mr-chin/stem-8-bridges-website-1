@@ -61,7 +61,6 @@ var sites = [{
 },{
     "name1": "Levi",
     "name2": "Taiyou",
-    "folder": "levi-taiyou",
-    "index": "team.html"
+    "folder": "levi-taiyou"
 }
 ];
