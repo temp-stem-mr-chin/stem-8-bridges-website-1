@@ -24,8 +24,7 @@ var sites = [{
 },{
     "name1": "Bram",
     "name2": "Ahmed",
-    "folder": "bram and ahmed",
-    "index": "team.html"
+    "folder": "bram and ahmed"
 },
              
 {
